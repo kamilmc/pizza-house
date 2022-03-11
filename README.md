@@ -1,4 +1,4 @@
-# pizza2
+# pizza-house
 
 ## Project setup
 ```
